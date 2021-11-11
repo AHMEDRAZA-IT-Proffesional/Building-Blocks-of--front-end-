@@ -1,9 +1,11 @@
 *{
-    color:navy;
+    color:black;
     text-align: center;
+    font-size: 40px;
+    margin: -5px;
 }
 header,nav,section,article,footer{
-    padding: 40px;
+    padding: 80px;
 }
 header{
     background-color: palegoldenrod;
@@ -17,6 +19,7 @@ section{
 article{
     background-color: salmon;
     margin: 20px;
+    display: inline;
 }
 footer{
     background-color: tomato;
