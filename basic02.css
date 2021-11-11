@@ -1,0 +1,23 @@
+*{
+    color:navy;
+    text-align: center;
+}
+header,nav,section,article,footer{
+    padding: 40px;
+}
+header{
+    background-color: palegoldenrod;
+}
+nav{
+    background-color: plum;
+}
+section{
+    background-color: powderblue;
+}
+article{
+    background-color: salmon;
+    margin: 20px;
+}
+footer{
+    background-color: tomato;
+}
